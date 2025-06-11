@@ -1,98 +1,6 @@
 {
   "jobs": [
     {
-      "id": "093caa12-5cd3-49d0-8421-279965d874e3",
-      "title": "Foundry Mold and Coremaker",
-      "description": "Velit temporibus saepe corrupti qui. Incidunt nostrum itaque nisi nesciunt incidunt. Explicabo voluptate rem nihil at. Tempore placeat tempora aliquid qui.",
-      "company": "Grady, Harvey and Friesen",
-      "location": "La Carlota, Reunion",
-      "salary_from": 71706,
-      "salary_to": 118085,
-      "employment_type": "In-house Developer for Non-Tech Company",
-      "application_deadline": "Sat, 04/10/1982",
-      "qualifications": [
-        "Expert in JavaScript",
-        "Proficient in SQL",
-        "3 years in Node.js",
-        "Solid understanding of AWS"
-      ],
-      "contact": "992-941-378",
-      "job_category": "Front-end Developer",
-      "is_remote_work": "0",
-      "number_of_opening": 5,
-      "created_at": "Sun, 10/15/2023",
-      "updated_at": "Sun, 10/15/2023"
-    },
-    {
-      "id": "4a7eb2a6-9f55-4f50-bb21-82f587c15aae",
-      "title": "Freight Agent",
-      "description": "Ab ut et omnis pariatur dignissimos. Pariatur eius laboriosam deleniti eligendi iusto. Cumque accusamus ea cupiditate quidem occaecati. Ea deserunt dolorem quod fuga explicabo neque.",
-      "company": "Kozey, Torp and Smitham",
-      "location": "Vigan, Iraq",
-      "salary_from": 58117,
-      "salary_to": 81938,
-      "employment_type": "Contract Developer",
-      "application_deadline": "Tue, 07/24/1990",
-      "qualifications": [
-        "Advanced HTML/CSS",
-        "Proficient in SQL",
-        "Master of TypeScript",
-        "Proficient in MongoDB"
-      ],
-      "contact": "260-602-802",
-      "job_category": "Database Administrator",
-      "is_remote_work": 0,
-      "number_of_opening": 6,
-      "created_at": "Sun, 10/15/2023",
-      "updated_at": "Sun, 10/15/2023"
-    },
-    {
-      "id": "0a69c384-3a9e-4842-b406-165ee7c649f0",
-      "title": "Maintenance Equipment Operator",
-      "description": "Illo et minus saepe. Illum facilis cumque labore veritatis at. Non consequatur voluptas ipsam cupiditate.",
-      "company": "Botsford, Erdman and Cronin",
-      "location": "Lipa, Albania",
-      "salary_from": 67098,
-      "salary_to": 83271,
-      "employment_type": "Contract Developer",
-      "application_deadline": "Sat, 05/24/2014",
-      "qualifications": [
-        "Advanced HTML/CSS",
-        "Proficient in SQL",
-        "4+ years in C++",
-        "Skilled in GraphQL"
-      ],
-      "contact": "072-005-960",
-      "job_category": "Mobile App Developer",
-      "is_remote_work": 0,
-      "number_of_opening": 3,
-      "created_at": "Sun, 10/15/2023",
-      "updated_at": "Sun, 10/15/2023"
-    },
-    {
-      "id": "0c4f4803-4faf-48ba-bca2-e7922e7d492a",
-      "title": "Gaming Service Worker",
-      "description": "Iste ut explicabo dolore dolore explicabo. Et ipsa totam itaque non autem rerum. Occaecati modi repudiandae eos sed quia. Voluptatum dignissimos vel aliquam.",
-      "company": "Little PLC",
-      "location": "Passi, Paraguay",
-      "salary_from": 69362,
-      "salary_to": 113358,
-      "employment_type": "Temporary Developer",
-      "application_deadline": "Wed, 11/08/2000",
-      "qualifications": [
-        "3+ years in Python",
-        "Proficient in SQL",
-        "Skilled in React",
-        "Proficient in Kotlin"
-      ],
-      "contact": "287-018-813",
-      "job_category": "Mobile App Developer",
-      "is_remote_work": 1,
-      "number_of_opening": 8,
-      "created_at": "Sun, 10/15/2023",
-      "updated_at": "Sun, 10/15/2023"
-    },
-    {
       "id": "feb4368b-f629-49bb-8af5-9bc717ed4363",
       "title": "Air Traffic Controller",
       "description": "Et aliquam voluptatem laborum minima id. Ullam commodi cupiditate perferendis. Iste est ut autem ad. Necessitatibus ut corporis ut eum.",
@@ -103,10 +11,11 @@
       "employment_type": "Remote Developer",
       "application_deadline": "Sat, 08/18/2012",
       "qualifications": [
-        "3+ years in Python",
         "4+ years in C++",
         "Expert in Docker",
-        "Skilled in GraphQL"
+        "Skilled in GraphQL",
+        "Expert in Java",
+        "Css"
       ],
       "contact": "948-177-289",
       "job_category": "Full-stack Developer",
@@ -6485,6 +6394,48 @@
       "number_of_opening": 7,
       "created_at": "Sun, 10/15/2023",
       "updated_at": "Sun, 10/15/2023"
+    },
+    {
+      "id": "7fe50954-f70b-46e5-8537-47ff3b502b43",
+      "title": "PHP developer",
+      "description": "jfnj. ushf bjs ",
+      "company": "AH vos",
+      "location": "Haarlem",
+      "salary_from": "10011",
+      "salary_to": "200000",
+      "employment_type": "contract",
+      "application_deadline": "2025-07-11",
+      "qualifications": [
+        "expert in Git ",
+        "knowledge over the C++"
+      ],
+      "contact": "992-941-378",
+      "job_category": "Back-end Developer",
+      "is_remote_work": "on",
+      "number_of_opening": 0,
+      "created_at": "2025-06-11",
+      "updated_at": ""
+    },
+    {
+      "id": "9d65ebd5-59fd-4fe6-b704-7f4957324c68",
+      "title": "Admin",
+      "description": "dfdsjfs",
+      "company": "Ah",
+      "location": "Shiraz, Iran",
+      "salary_from": "10000",
+      "salary_to": "10000",
+      "employment_type": "Contract Developer",
+      "application_deadline": "2025-06-20",
+      "qualifications": [
+        "Java",
+        "Kotlin"
+      ],
+      "contact": "914-598-532",
+      "job_category": "Back-end Developer",
+      "is_remote_work": "on",
+      "number_of_opening": 0,
+      "created_at": "2025-06-06",
+      "updated_at": ""
     }
   ]
 }
